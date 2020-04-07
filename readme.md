@@ -1,6 +1,6 @@
 ## FLEXSHIELD v1
 
-![Full face variant](./assets/images/olc-flexshield-full.jpg)
+<img src="./assets/images/olc-flexshield-full.jpg" alt="Full face variant" style="max-width:50%" >
 
 This is a disposable and/or reusable face shield design, it's currently in the early stages of review by our local hospitals and this iteration addresses a couple of issues from our previous design.
 
@@ -10,7 +10,7 @@ This is a disposable and/or reusable face shield design, it's currently in the e
 
 3) Split the design into a Full Face version that wraps over the top of the head for more protection and a standard version that simply wraps around the face and can be produced in larger quantities.
 
-**Note that this is not an approved medical device and has not been tested or certified as fit for any restricted use.**
+**Note that this is not an approved medical or protective device and has not been tested or certified as fit for any restricted use.**
 
 ## Source attribution
 [Online Laser Cutting](onlinelasercutting.com.au)
