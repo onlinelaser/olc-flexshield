@@ -6,6 +6,8 @@ This is a disposable and/or reusable face shield design, it's currently in the e
 
 2) Fully sanitisable materials in Isopropyl alcohol - specifically no foam or adhesive parts are required that would be degraded by washing/sanitising
 
+3) Split the design into a Full Face version that wraps over the top of the head for more protection and a standard version that simply wraps around the face and can be produced in larger quantities.
+
 **Note that this is not an approved medical device and has not been tested or certified as fit for any restricted use.**
 
 ## Source attribution
