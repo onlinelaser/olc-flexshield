@@ -1,5 +1,7 @@
 ## FLEXSHIELD v1
 
+![Full face variant](./assets/images/olc-flexshield-full.jpg)
+
 This is a disposable and/or reusable face shield design, it's currently in the early stages of review by our local hospitals and this iteration addresses a couple of issues from our previous design.
 
 1) Integrated shield cover now extends coverage over the front of the top of the head.
