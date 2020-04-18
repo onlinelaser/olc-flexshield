@@ -23,14 +23,17 @@ Designed to withstand sterilising in 99%+ Alochol based on:
 See: https://www.calpaclab.com/polypropylene-chemical-compatibility-chart/  
 See: https://www.usplastic.com/knowledgebase/article.aspx?contentkey=569
 
+Initial testing on a 50 deg Centigrade VHP cycle indicated shield was still 
+fully functional after 5 cycles - more testing is required however.
+
 ## Lifespan:
 Single or Multiple use.  
-Should happily withstand multiple 99% Alcohol wash cycles
+Should happily withstand multiple 99% Alcohol wash cycles and appears fine with low temperature VHP sterilisation.
 
 ## Design notes:
 Strap size should fit 97%+ of the population
 
 ## BOM
-* 1 x Mylar faceplate
-* 1 x Polypropylene head band
-* 1 x Polypropylene brow strap
+* 1 x 0.1mm Polyester faceplate
+* 1 x 0.6mm Polypropylene head band
+* 1 x 0.6mm Polypropylene brow strap
