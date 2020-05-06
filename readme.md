@@ -13,10 +13,21 @@ This is a disposable and/or reusable face shield design, it's currently in the e
 **Note that this is not an approved medical or protective device and has not been tested or certified as fit for any restricted use.**
 
 ## Source attribution
-[Online Laser Cutting](onlinelasercutting.com.au)
+[Online Laser Cutting](https://onlinelasercutting.com.au)
 
-## License
-Open Source Hardware
+## Open Source License
+Copyright Online Laser Cutting Pty Ltd 2020.
+
+This source describes Open Hardware and is licensed under the CERN-OHL-P
+v2
+
+You may redistribute and modify this documentation and make products
+using it under the terms of the CERN-OHL-P v2 (https:/cern.ch/cern-ohl).
+
+This documentation is distributed WITHOUT ANY EXPRESS OR IMPLIED
+WARRANTY, INCLUDING OF MERCHANTABILITY, SATISFACTORY QUALITY
+AND FITNESS FOR A PARTICULAR PURPOSE. Please see the CERN-OHL-P v2
+for applicable conditions
 
 ## Sterilising protocol
 Designed to withstand sterilising in 99%+ Alochol based on:
@@ -34,6 +45,6 @@ Should happily withstand multiple 99% Alcohol wash cycles and appears fine with 
 Strap size should fit 97%+ of the population
 
 ## BOM
-* 1 x 0.1mm Polyester faceplate
-* 1 x 0.6mm Polypropylene head band
-* 1 x 0.6mm Polypropylene brow strap
+* 1 x 0.1mm Polyester OR 0.5mm PETG faceplate
+* 1 x 0.8mm Polypropylene head band
+* 1 x 0.8mm Polypropylene brow strap
